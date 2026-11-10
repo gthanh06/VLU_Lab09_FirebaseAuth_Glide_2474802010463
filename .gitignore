@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+.idea/
+.kotlin/
+local.properties
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+
+# Firebase config - do NOT publish to a public repository
+app/google-services.json

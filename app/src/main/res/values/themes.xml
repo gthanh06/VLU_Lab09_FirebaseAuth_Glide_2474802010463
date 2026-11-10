@@ -1,0 +1,10 @@
+<resources>
+    <!-- Material Design 3 theme, no default ActionBar (using a custom Toolbar) -->
+    <style name="Theme.VLULab10" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#B71C1C</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Status bar uses the same red as the Toolbar, with light icons -->
+        <item name="android:statusBarColor">#B71C1C</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
